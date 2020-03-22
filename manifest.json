@@ -10,8 +10,8 @@
     "url": "http://ampache.org",
     "license": "AGPL-3.0",
     "maintainer": {
-        "name": "aymhce",
-        "email": "aymhce@gmail.com"
+        "name": "flatrongraad",
+        "email": "flatrongraad@fatsofa.eu"
     },
     "multi_instance": true,
     "requirements": {
