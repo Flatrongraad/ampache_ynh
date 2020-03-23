@@ -59,9 +59,9 @@
                     "en": "Is it a public application?",
                     "fr": "Est-ce une application publique ?"
                 },
-                "default": true
+                "default": true,
 		"help": {
-       		    "en": "Public application means that you can access it without first logging into your yunohost server (home page with all the apps). As ampache requires logging EVEN if you are logged in yunohost homepage of your server, the only danger of have the app plublic would be that anybody could exploit an unknown issue on ampache to connect to your server (unknown to the public). Setting the app to privat is an extra layer of security."
+       		    "en": "Public application means that you can access it without first logging into your yunohost server (home page with all the apps). As ampache requires logging EVEN if you are logged in yunohost homepage of your server, the only danger of have the app plublic would be that anybody could exploit an unknown issue on ampache to connect to your server (unknown to the public). Setting the app to privat is an extra layer of security.",
 		    "fr": "Une application publique veut dire qu'il est possible d'y accéder malgré que l'utilisateur n'est pas connecté au serveur yunohost (la page d'acceuile avec toutes les application). Comme Ampache a besoin qu'on se connect a lui MEME si l'utilisateur est connecté a la page d'acceuil de yunohost, le seul danger d'avoir ampache en public est qu'une personne malveillante pourait profiter d'une faille inconnue sur ampache pour accéder au serveur.Mettre l'application en privé rajoute juste une couche de sécurité."
     		}
             }
